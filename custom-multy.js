@@ -25,7 +25,7 @@ if(x=="1"){xxx="quick-tips-to-boost-your-metabolism.html"}
 if(x=="2"){xxx="staying-motivated-to-exercise.html"}
 if(x=="3"){xxx="the-importance-of-working-your-core.html"}
 if(x=="4"){xxx="why-you-cant-spot-reduce.html"}
-if(x=="5"){xxx="your-thyroid-and-weight-loss-connection.html"}a_to_ve[i].href="//safelinknojutsu.blogspot.com/2017/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="your-thyroid-and-weight-loss-connection.html"}a_to_ve[i].href="http://safelinknojutsu.blogspot.com/2017/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
